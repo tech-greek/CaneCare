@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 # Load environment variables (if needed)
 load_dotenv()
-openai_api_key = "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"
+openai_api_key = "" # enter key here 
 openai.api_key = openai_api_key
 
 
